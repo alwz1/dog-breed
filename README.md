@@ -15,7 +15,7 @@ In this project, I developed an algorithm for classification of dog breeds. Give
 
 ### Instructions
 
-1. Clone the repository and navigate to the downloaded folder.
+1. Clone the original repository from Udacity and navigate to the downloaded folder.
 	
 	```	
 		git clone https://github.com/udacity/deep-learning-v2-pytorch.git

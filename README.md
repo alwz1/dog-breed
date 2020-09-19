@@ -4,6 +4,19 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+## Installation
+
+Standard libraries installed with the Anaconda distribution.
+
+python 3.7.6
+
+pytorch 
+
+torch
+
+torchvision
+
+glob2
 
 ## Project Overview
 

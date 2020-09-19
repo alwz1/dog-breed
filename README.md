@@ -23,7 +23,7 @@ glob2
 
 In this project, I developed an algorithm for classification of dog breeds. Given the user input image, the code will differentiate whether it is human, dog or neither. If a dog image is detected, it will identify an estimate of the canine’s breed.  If a human face is detected, the code will identify the resembling dog breed. Convolutional Neural Networks (CNN) models were developed for dog breed classification. 
 
-![Sample Output][image4]
+![Sample Output][image1]
 
 ## Project Instructions
 

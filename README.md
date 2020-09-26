@@ -1,9 +1,9 @@
 [//]: # (Image References)
 
-[image1]: ./images/sample_dog_output.png "Sample Output"
-[image2]: ./images/vgg16_model.png "VGG-16 Model Layers"
-[image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
-[image4]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
+[image1]: ./images/sample_dog_output_2.png "Sample Output"
+[image2]: ./images/sample_human_output_2.png "Sample Output_2"
+[image3]: ./images/sample_cat_output.png "Sample Output_3"
+[image4]: ./images/sample_dog_output_3.png "Sample Output_4"
 
 ## Installation
 
@@ -24,6 +24,9 @@ glob2
 In this project, I developed an algorithm for classification of dog breeds. Given the user input image, the code will differentiate whether it is human, dog or neither. If a dog image is detected, it will identify an estimate of the canine’s breed.  If a human face is detected, the code will identify the resembling dog breed. Convolutional Neural Networks (CNN) models were developed for dog breed classification. 
 
 ![Sample Output][image1]
+![Sample Output_2][image2]
+![Sample Output_3][image3]
+![Sample Output_4][image4]
 
 ## Project Instructions
 
